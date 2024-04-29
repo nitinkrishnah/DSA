@@ -1,7 +1,6 @@
 # https://leetcode.com/problems/palindrome-number/
 
 
-
 def isPalindrome( x):
         if x<0:
             return False
