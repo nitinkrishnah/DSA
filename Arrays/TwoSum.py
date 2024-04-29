@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/two-sum/
 
+# one pass hash method O(n) time and o(n) space
 # using dictionary(most efficient)
 # declare an empty dictionary
 # loop through the array
